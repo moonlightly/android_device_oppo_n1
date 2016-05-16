@@ -17,7 +17,7 @@
 # inherit from common apq8064
 -include device/oppo/apq8064-common/BoardConfigCommon.mk
 
-TARGET_SPECIFIC_HEADER_PATH += device/oppo/find5/include
+TARGET_SPECIFIC_HEADER_PATH += device/oppo/n1/include
 
 # Kernel
 TARGET_KERNEL_CONFIG := cyanogenmod_n1_defconfig
